@@ -1,0 +1,39 @@
+public class Main {
+
+    public static void main (String [] args) {
+    
+    Class Persona
+        persona persona = new persona
+        persona.setNombre("Fran");
+        persona.setEdad("36");
+        persona.setTelefono("1156789382");
+         
+          system.out.println(persona.getTipo);
+          system.out.println(persona.getTipo);
+          system.out.println(persona.getTipo);
+    }
+}
+
+    Class Cliente extends Persona
+       int setNombre;
+       int setEdad;
+       int setTelefono;
+       
+       string Credito;
+       
+       cliente cliente = new Cliente
+       cliente.setNombre("nombre");
+       cliente.setEdad("Edad");
+       cliente.setTelefono("Telefono");
+    }
+}
+
+  Class Trabajador extends Persona
+       int setNombre;
+       int setEdad;
+       int setTelefono;
+       
+       string Salario;
+       
+      }
+   }
